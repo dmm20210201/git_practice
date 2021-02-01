@@ -1,4 +1,2 @@
-hoge
-hoge
-hoge
-hoge
+hoge2
+hoge2
